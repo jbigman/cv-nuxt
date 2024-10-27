@@ -13,7 +13,7 @@ import InfoElement from './InfoElement.vue';
     <NetWork :data="networkData"/>
     <div class="imageContainer">
       <img
-      src="/img/avatar.png"
+      src="/assets/img/avatar.png"
       alt="Photo de profil"
       width={0}
       height={0}
