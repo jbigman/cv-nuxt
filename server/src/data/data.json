@@ -1,0 +1,147 @@
+{
+	"nom": "GAMBIN",
+	"prenom": "Jérémie",
+	"address": "Nantes, Full remote",
+	"email": "jeremie.gambin@gmail.com",
+	"phone": "06.24.89.44.49",
+	"title": "Développeur Full-Stack Senior ",
+	"punchLines": [
+		"10 ans d'expérience en développement Full-Stack",
+		"Expertise en stacks modernes : TypeScript, Node.js, React, Next.js",
+		"Gestion complète des projets de la conception au déploiement",
+		"Expérience en tant que Scrum Master en environnement agile",
+		"Mise en place de chaînes CI/CD sur tous mes projets"
+	],
+	"stackOverFlowUrl": "https://stackoverflow.com/users/2988788",
+	"drivingLicence": "Permis B",
+	"githubUrl": "https://github.com/jbigman",
+	"linkedinUrl": "https://www.linkedin.com/in/jeremiegambin/",
+	"description": "Développeur expérimenté en applications web et mobiles, spécialisé en TypeScript, Node.js et React. Mes réalisations incluent la création d'une plateforme de réservation avec systèmes de paiement pour LaPetitePouzerie.fr et l'implémentation d'un moteur de recherche pour les jeux vidéo sur Gamewisher.com. À la recherche d'un poste de développeur à CoderPad, où je pourrais apporter mes compétences en développement front-end et back-end dans un environnement Agile, pour soutenir votre équipe Tech à renforcer vos produits et assurer leur évolutions.",
+	"experiences": [
+		[{
+			"title": "Création d'une plateforme communautaire dédiée aux jeux mobiles, gérée en autonomie.",
+			"description": "",
+			"company": "Gamewisher.com - Fondateur & Développeur Full-Stack",
+			"link": "https://www.gamewisher.com",
+			"tasks": [
+				"<strong>Conception intégrale de la plateforme</strong> avec <b>React</b> et <b>Next.js</b> et de l'API RESTful</b> avec <b>NestJS</b> et <b>MongoDB</b>",
+				"<strong>Configuration de la pipeline CI/CD</strong> avec <b>Vitest</b> et <b>GitHub Actions</b> et déploiements dans des conteneurs <b>Docker</b>"
+			],
+			"stack": [],
+			"dateStart": "2019",
+			"dateEnd": "2024"
+		}],
+		[		{
+			"title": "Conception intégrale en <b>TypeScript</b>, <b>NestJS</b> et <b>NextJs</b> du site de réservation (en collaboration avec une UX designer)",
+			"company": "LaPetitePouzerie.fr - Développeur freelance",
+			"link": "https://www.LaPetitePouzerie.fr",
+			"description" : "",
+			"tasks": [
+				"<strong>Analyse des besoins avec les hôtes </strong> pour définir les règles fonctionnelles."
+			],
+			"stack": [
+		],
+			"dateStart": "Mars - Avril 2024",
+			"dateEnd": ""
+		}],[{
+				"title": "Développement d'une App Android en <b>React Native</b> pour gérer l'ouverture de sas de laboratoire (en autonomie)",
+				"company": "Eric C. Entrepreneur - Développeur freelance",
+				"description" : "",
+				"tasks": [ 
+					"<strong>Analyse des besoins :</strong> Échanges et démonstrations hebdomadaires pour définir et développer les fonctionnalités du MVP.",
+					"<strong>Communication avec le développeur du boîtier de contrôle : </strong> Définition du protocole de communication Bluetooth."
+				],
+				"stack": [],
+				"dateStart": "Octobre 2022",
+				"dateEnd": ""
+			}
+		],
+		[{
+			"title": "Développement d'une App Android en <b>React Native</b> pour le système de transport Danois (en autonomie)",
+			"company": "Thales - Développeur & Scrum Master",
+			"description" : "",
+			"tasks": [
+				"<strong>Élaboration des besoins</strong> en <b>collaboration avec un Product Owner</b> danois pour définir la refonte logicielle",
+				"<strong>Collaboration inter-équipes</strong> en établissant les protocoles de communication, avec les autres équipements du bus, basés sur <b>MQTT</b>."
+			],
+			"stack": [],
+			"dateStart": 2017,
+			"dateEnd": 2018
+		},{
+			"title": "Développement d'un système de gestion des titres de transport en <b>Java</b> et <b>Angular</b> (dans une équipe de 10 personnes)",
+			"company": "",
+			"description" : "",
+			"tasks": [ 
+				"<strong>Scrum master :</strong> Animation des cérémonies, écriture et relecture de User Story",
+				"<strong>Conception et implémentation de fonctionnalités de bout en bout</strong> : Modifications de la base de données <b>PostgreSQL</b>, consommation de messages <b>RabbitMQ</b>, nouveaux services de l'API RESTful et portails utilisateurs en <b>Angular</b>"
+		 ],
+			"stack": [],
+			"dateStart": 2013,
+			"dateEnd": 2017
+		},{
+			"title": "Développement en <b>C#</b> et <b>ASP.Net</b> du système billettique pour Auckland, NZ (dans une équipe de 8 personnes)",
+			"company": "",
+			"description" : "",
+			"tasks": [
+				"<strong>Résolution de bugs ou de problèmes de performance</strong> de composants tels que la gestion du parc d'équipement. En modifiant aussi bien les anomalies sur le portail que lesrequêtes sur la base de données <b>Microsoft SQL Server</b>"
+			],
+			"stack": [],
+			"dateStart": 2010,
+			"dateEnd": 2013
+		},{
+			"title": "Migration technique d'un logiciel en <b>C#</b> et <b>WPF</b> vers une version Web <b>ASP.Net</b> (Alternance M1/M2)",
+			"company": "",
+			"description" : "",
+			"tasks": [
+				"<strong>Amélioration de l'interface utilisateur</strong> avec des contrôles graphiques adaptés aux besoins fonctionnels des utilisateurs"
+			],
+			"stack": [],
+			"dateStart": 2008,
+			"dateEnd": 2010
+		}]
+	],
+	"formations": [
+		{
+			"title": "Expert en conduite et ingénierie de développement logiciel et système",
+			"company": "CFA AFTI, Orsay",
+			"tasks": [],
+			"stack": [],
+			"dateEnd": 2010
+		},
+		{
+			"title": "Licence Informatique",
+			"description": "",
+			"company": "Paris Sorbonne Université",
+			"duration": "",
+			"tasks": [],
+			"stack": [],
+			"dateEnd": 2008
+		}
+	],
+	"skills": [
+		{
+			"type": "hard",
+			"icon":"ts",
+			"name": "TypeScript et Javascript",
+			"subtitle": "Certification CodinGame",
+			"link": "https://www.codingame.com/certification/nxSxPg_AI-hssnpcSACqag"
+		},
+		{
+			"type": "hard",
+			"icon": "react",
+			"name": "Node.js — Nest.js — React — Next.js"
+		},
+		{
+			"type": "soft",
+			"icon": "brain",
+			"name": "Autonomie et ownership",
+			"subtitle": "Assure la qualité du code de la conception à la livraison"
+		},
+		{
+			"type": "soft",
+			"icon": "autonomie",
+			"name": "Collaboration et méthodologie Agile",
+			"subtitle": "Assure le rôle de Scrum Master avec des profils variés"
+		}
+	]
+}
