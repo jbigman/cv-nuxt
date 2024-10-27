@@ -6,7 +6,7 @@ import Formation from './formation.vue'
 import Header from './header.vue'
 import Skill from './skill.vue'
 import { ISkill } from './interfaces/ISkill.js'
-import { ICuriculum } from './interfaces/ICuriculum.js'
+import type { ICuriculum } from './interfaces/ICuriculum.js'
 import Experiences from './experiences.vue'
 
 const typedCV = cv as ICuriculum

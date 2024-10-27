@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ISkill } from './interfaces/ISkill.js';
+import type { ISkill } from './interfaces/ISkill.js';
 defineProps<{
   data: ISkill
 }>()
