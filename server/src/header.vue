@@ -11,15 +11,8 @@ import InfoElement from './InfoElement.vue';
   <div class="header">
     <NetWork :data="networkData"/>
     <div class="imageContainer">
-      <img
-      src="/assets/img/avatar.png"
-      alt="Photo de profil"
-      width={0}
-      height={0}
-      sizes="100vw"
-      style="width: 100%; height: auto"
-      />
-      <h1>{{cv.prenom}} {{cv.nom}}</h1>
+      <img src="/assets/img/avatar.png" alt="Profil picture" />
+      <h1>{{cv.firstName}} {{cv.lastName}}</h1>
     </div>
     <div class="right">
       <div class="list">
@@ -69,12 +62,6 @@ import InfoElement from './InfoElement.vue';
 
 <style lang="scss" scoped>
 
-h2 {
-  font-size: 26px;
-  color: $highlight;
-  margin: 0;
-}
-
 ul {
   display: flex;
   flex-direction: column;
@@ -83,7 +70,7 @@ ul {
   margin: $main-padding 0;
   li {
     &::marker {
-      color: #f38229;
+      color: $highlight;
     }
   }
 }
@@ -98,12 +85,9 @@ ul {
 
 a {
   color: $color-white;
-}
-
-.clickable {
   text-decoration: none;
   &:hover {
-    color: $highlight !important;
+    color: $highlight;
   }
 }
 
@@ -116,17 +100,15 @@ a {
   gap: $main-padding;
   
   .imageContainer {
-    display: flex;
     flex: 2;
+    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     
     img {
-      // -webkit-transform: scaleX(-1);
-      // transform: scaleX(-1);
       border-radius: 50%;
-      $img-size : 100px !important;
+      $img-size : 120px !important;
       width: $img-size;
       height: $img-size;
       
@@ -143,24 +125,19 @@ a {
     flex: 4;
   }
   
-  .clickable {
-    text-decoration: none;
-  }
-  
   h1 {
-    font-size: 26px;
+    font-family: $font-title;
+    font-weight: 400;
+    font-size: 32px;
     margin: 15px 0 0 0;
-  }
-  h1,h2,h3,h4,h5 {
-    // Force les couleurs avec important (light), parceque le next build change l'ordre des css (modules)
-    color: $color-white !important;
+    color: $color-white;
   }
   
   h2 {
     font-family: $font-title;
     font-weight: 400;
     font-size: 26px;
-    color: $highlight !important;
+    color: $highlight;
     margin: 0;
   }
   
