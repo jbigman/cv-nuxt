@@ -1,6 +1,5 @@
 
 <script setup lang="ts">
-import { FiMapPin, FiMail, FiPhone } from 'react-icons/fi'
 import cv from './data/data.json'
 import networkData from './data/network.json'
 import Block from './block.vue'
