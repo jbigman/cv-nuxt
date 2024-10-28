@@ -25,4 +25,11 @@
     font-size: 12px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  
+  .element {
+    justify-content: center;
+  }
+}
 </style>

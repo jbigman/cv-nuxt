@@ -10,11 +10,11 @@ import InfoElement from './InfoElement.vue';
 <template>
   <div class="header">
     <NetWork :data="networkData"/>
-    <div class="imageContainer">
+    <div class="left-column">
       <img src="/assets/img/avatar.png" alt="Profil picture" />
-      <h1>{{cv.firstName}} {{cv.lastName}}</h1>
+      <h1 class="title"> {{cv.firstName}} {{cv.lastName}}</h1>
     </div>
-    <div class="right">
+    <div class="right-column">
       <div class="list">
         <InfoElement >
           <!-- <template #icon>
@@ -45,20 +45,13 @@ import InfoElement from './InfoElement.vue';
           </template>
         </InfoElement>
       </div>
-      <Block >
-        <template #title>
-          <h2 class="title">{{cv.title}}</h2>
-        </template>
-        <template #details>
-          <ul>
-            <li v-for="punchline in  cv.punchLines" style="line-height: 20px">{{punchline}}</li>
-          </ul>
-        </template>
-      </Block>
+      <h2 class="title">{{cv.title}}</h2>
+      <ul>
+        <li v-for="punchline in  cv.punchLines" style="line-height: 20px">{{punchline}}</li>
+      </ul>
     </div>
   </div>
 </template>
-
 
 <style lang="scss" scoped>
 
@@ -67,7 +60,6 @@ ul {
   flex-direction: column;
   padding-inline-start: $main-padding;
   font-size: 14px;
-  margin: $main-padding 0;
   li {
     &::marker {
       color: $highlight;
@@ -78,17 +70,16 @@ ul {
 .list {
   display: flex;
   flex-direction: row;
-  gap: calc(2 * $main-padding);
-  margin: 0 0 $main-padding 0;
-  justify-content: space-around;
-}
-
-a {
-  color: $color-white;
-  text-decoration: none;
-  &:hover {
-    color: $highlight;
+  justify-content: space-between;
+  
+  a {
+    color: $color-white;
+    text-decoration: none;
+    &:hover {
+      color: $highlight;
+    }
   }
+  
 }
 
 .header {
@@ -99,12 +90,13 @@ a {
   align-items: center;
   gap: $main-padding;
   
-  .imageContainer {
+  .left-column {
     flex: 2;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: $main-padding;
     
     img {
       border-radius: 50%;
@@ -119,26 +111,21 @@ a {
     }
   }
   
-  .right {
+  .right-column {
     display: flex;
     flex-direction: column;
     flex: 4;
+    gap : $main-padding;
   }
   
   h1 {
-    font-family: $font-title;
-    font-weight: 400;
     font-size: 32px;
-    margin: 15px 0 0 0;
     color: $color-white;
   }
   
   h2 {
-    font-family: $font-title;
-    font-weight: 400;
     font-size: 26px;
     color: $highlight;
-    margin: 0;
   }
   
 }
@@ -153,10 +140,13 @@ a {
   
   .header {
     flex-direction: column;
-  }
-  
-  .title {
-    display: flex;
+
+    .left-column {
+      flex-direction: column-reverse;
+    }
+    h2 {
+      text-align: center;
+    }
   }
 }
 </style>
