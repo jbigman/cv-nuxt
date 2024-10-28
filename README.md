@@ -26,7 +26,7 @@
 
 `yarn install` pour telecharger toutes les dépendances
 
-`yarn serve` Pour tester l'application en localhost
+`yarn dev` Pour tester l'application en localhost
 
   
   
