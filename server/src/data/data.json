@@ -1,99 +1,98 @@
 {
-	"nom": "GAMBIN",
-	"prenom": "Jérémie",
-	"address": "Nantes, Full remote",
+	"lastName": "GAMBIN",
+	"firstName": "Jérémie",
+	"address": "Nantes, FR",
 	"email": "jeremie.gambin@gmail.com",
 	"phone": "06.24.89.44.49",
-	"title": "Développeur Full-Stack Senior ",
+	"title": "Senior Full-Stack Developer",
 	"punchLines": [
-		"10 ans d'expérience en développement Full-Stack",
-		"Expertise en stacks modernes : TypeScript, Node.js, React, Next.js",
-		"Gestion complète des projets de la conception au déploiement",
-		"Expérience en tant que Scrum Master en environnement agile",
-		"Mise en place de chaînes CI/CD sur tous mes projets"
+		"10 years of experience in Full-Stack development",
+		"Expertise in modern stacks: TypeScript, Node.js, React, Next.js",
+		"Complete project management from design to deployment",
+		"Experience as Scrum Master in an Agile environment",
+		"CI/CD pipeline implementation on all my projects"
 	],
 	"stackOverFlowUrl": "https://stackoverflow.com/users/2988788",
-	"drivingLicence": "Permis B",
+	"drivingLicence": "Driving license B",
 	"githubUrl": "https://github.com/jbigman",
 	"linkedinUrl": "https://www.linkedin.com/in/jeremiegambin/",
-	"description": "Développeur expérimenté en applications web et mobiles, spécialisé en TypeScript, Node.js et React. Mes réalisations incluent la création d'une plateforme de réservation avec systèmes de paiement pour LaPetitePouzerie.fr et l'implémentation d'un moteur de recherche pour les jeux vidéo sur Gamewisher.com. À la recherche d'un poste de développeur à CoderPad, où je pourrais apporter mes compétences en développement front-end et back-end dans un environnement Agile, pour soutenir votre équipe Tech à renforcer vos produits et assurer leur évolutions.",
+	"description": "Experienced developer in web and mobile applications, specializing in TypeScript, Node.js, and React. My achievements include creating a booking platform with payment systems for LaPetitePouzerie.fr and implementing a search engine for video games on Gamewisher.com. Seeking a developer role at CoderPad, where I can bring my front-end and back-end development skills in an Agile environment to support your Tech team in strengthening your products and ensuring their growth.",
 	"experiences": [
 		[{
-			"title": "Création d'une plateforme communautaire dédiée aux jeux mobiles, gérée en autonomie.",
+			"title": "Creation of a community platform dedicated to mobile games, managed independently.",
 			"description": "",
-			"company": "Gamewisher.com - Fondateur & Développeur Full-Stack",
+			"company": "Gamewisher.com - Founder & Full-Stack Developer",
 			"link": "https://www.gamewisher.com",
 			"tasks": [
-				"<strong>Conception intégrale de la plateforme</strong> avec <b>React</b> et <b>Next.js</b> et de l'API RESTful</b> avec <b>NestJS</b> et <b>MongoDB</b>",
-				"<strong>Configuration de la pipeline CI/CD</strong> avec <b>Vitest</b> et <b>GitHub Actions</b> et déploiements dans des conteneurs <b>Docker</b>"
+				"<strong>Complete design of the platform</strong> with <b>React</b> and <b>Next.js</b> and the <b>RESTful API</b> with <b>NestJS</b> and <b>MongoDB</b>",
+				"<strong>CI/CD pipeline setup</strong> with <b>Vitest</b> and <b>GitHub Actions</b> and deployment in <b>Docker</b> containers"
 			],
 			"stack": [],
 			"dateStart": "2019",
 			"dateEnd": "2024"
 		}],
-		[		{
-			"title": "Conception intégrale en <b>TypeScript</b>, <b>NestJS</b> et <b>NextJs</b> du site de réservation (en collaboration avec une UX designer)",
-			"company": "LaPetitePouzerie.fr - Développeur freelance",
-			"link": "https://www.LaPetitePouzerie.fr",
-			"description" : "",
-			"tasks": [
-				"<strong>Analyse des besoins avec les hôtes </strong> pour définir les règles fonctionnelles."
-			],
-			"stack": [
-		],
-			"dateStart": "Mars - Avril 2024",
-			"dateEnd": ""
-		}],[{
-				"title": "Développement d'une App Android en <b>React Native</b> pour gérer l'ouverture de sas de laboratoire (en autonomie)",
-				"company": "Eric C. Entrepreneur - Développeur freelance",
-				"description" : "",
-				"tasks": [ 
-					"<strong>Analyse des besoins :</strong> Échanges et démonstrations hebdomadaires pour définir et développer les fonctionnalités du MVP.",
-					"<strong>Communication avec le développeur du boîtier de contrôle : </strong> Définition du protocole de communication Bluetooth."
-				],
-				"stack": [],
-				"dateStart": "Octobre 2022",
-				"dateEnd": ""
-			}
-		],
 		[{
-			"title": "Développement d'une App Android en <b>React Native</b> pour le système de transport Danois (en autonomie)",
-			"company": "Thales - Développeur & Scrum Master",
-			"description" : "",
+			"title": "Complete design in <b>TypeScript</b>, <b>NestJS</b>, and <b>NextJs</b> of the booking site (in collaboration with a UX designer)",
+			"company": "LaPetitePouzerie.fr - Freelance Developer",
+			"link": "https://www.LaPetitePouzerie.fr",
+			"description": "",
 			"tasks": [
-				"<strong>Élaboration des besoins</strong> en <b>collaboration avec un Product Owner</b> danois pour définir la refonte logicielle",
-				"<strong>Collaboration inter-équipes</strong> en établissant les protocoles de communication, avec les autres équipements du bus, basés sur <b>MQTT</b>."
+				"<strong>Requirements analysis with hosts</strong> to define functional rules."
+			],
+			"stack": [],
+			"dateStart": "March - April 2024",
+			"dateEnd": ""
+		}],
+		[{
+			"title": "Development of an Android app in <b>React Native</b> to manage lab lock openings (independently)",
+			"company": "Eric C. Entrepreneur - Freelance Developer",
+			"description": "",
+			"tasks": [
+				"<strong>Requirements analysis:</strong> Weekly discussions and demos to define and develop MVP features.",
+				"<strong>Communication with the control box developer:</strong> Defining the Bluetooth communication protocol."
+			],
+			"stack": [],
+			"dateStart": "October 2022",
+			"dateEnd": ""
+		}],
+		[{
+			"title": "Development of an Android app in <b>React Native</b> for the Danish transport system (independently)",
+			"company": "Thales - Developer & Scrum Master",
+			"description": "",
+			"tasks": [
+				"<strong>Requirements review</strong> in <b>collaboration with a Danish Product Owner</b> to define the software redesign",
+				"<strong>Cross-team collaboration</strong> establishing communication protocols with other bus equipment based on <b>MQTT</b>."
 			],
 			"stack": [],
 			"dateStart": 2017,
 			"dateEnd": 2018
-		},{
-			"title": "Développement d'un système de gestion des titres de transport en <b>Java</b> et <b>Angular</b> (dans une équipe de 10 personnes)",
+		}, {
+			"title": "Development of a transport ticketing management system in <b>Java</b> and <b>Angular</b> (in a 10-person team)",
 			"company": "",
-			"description" : "",
-			"tasks": [ 
-				"<strong>Scrum master :</strong> Animation des cérémonies, écriture et relecture de User Story",
-				"<strong>Conception et implémentation de fonctionnalités de bout en bout</strong> : Modifications de la base de données <b>PostgreSQL</b>, consommation de messages <b>RabbitMQ</b>, nouveaux services de l'API RESTful et portails utilisateurs en <b>Angular</b>"
-		 ],
+			"description": "",
+			"tasks": [
+				"<strong>Scrum master:</strong> Leading ceremonies, writing and reviewing User Stories",
+				"<strong>End-to-end feature design and implementation</strong>: <b>PostgreSQL</b> database changes, <b>RabbitMQ</b> message consumption, <b>Angular</b> user portals creation and API RESTful services"
+			],
 			"stack": [],
 			"dateStart": 2013,
 			"dateEnd": 2017
-		},{
-			"title": "Développement en <b>C#</b> et <b>ASP.Net</b> du système billettique pour Auckland, NZ (dans une équipe de 8 personnes)",
+		}, {
+			"title": "Development in <b>C#</b> and <b>ASP.Net</b> of the ticketing system for Auckland, NZ (in an 8-person team)",
 			"company": "",
-			"description" : "",
+			"description": "",
 			"tasks": [
-				"<strong>Résolution de bugs ou de problèmes de performance</strong> de composants tels que la gestion du parc d'équipement. En modifiant aussi bien les anomalies sur le portail que lesrequêtes sur la base de données <b>Microsoft SQL Server</b>"
+				"<strong>Bug fixing and performance improvement</strong> of components such as equipment fleet management, modifying both portal issues and database queries in <b>Microsoft SQL Server</b>"
 			],
 			"stack": [],
 			"dateStart": 2010,
 			"dateEnd": 2013
-		},{
-			"title": "Migration technique d'un logiciel en <b>C#</b> et <b>WPF</b> vers une version Web <b>ASP.Net</b> (Alternance M1/M2)",
+		}, {
+			"title": "Technical migration of software in <b>C#</b> and <b>WPF</b> to a web version in <b>ASP.Net</b> (Master's Internship)",
 			"company": "",
-			"description" : "",
+			"description": "",
 			"tasks": [
-				"<strong>Amélioration de l'interface utilisateur</strong> avec des contrôles graphiques adaptés aux besoins fonctionnels des utilisateurs"
+				"<strong>User interface improvement</strong> with graphical controls adapted to users' functional needs"
 			],
 			"stack": [],
 			"dateStart": 2008,
@@ -102,16 +101,16 @@
 	],
 	"formations": [
 		{
-			"title": "Expert en conduite et ingénierie de développement logiciel et système",
+			"title": "Expert in Software and Systems Development Engineering",
 			"company": "CFA AFTI, Orsay",
 			"tasks": [],
 			"stack": [],
 			"dateEnd": 2010
 		},
 		{
-			"title": "Licence Informatique",
+			"title": "Bachelor's in Computer Science",
 			"description": "",
-			"company": "Paris Sorbonne Université",
+			"company": "Paris Sorbonne University",
 			"duration": "",
 			"tasks": [],
 			"stack": [],
@@ -121,9 +120,9 @@
 	"skills": [
 		{
 			"type": "hard",
-			"icon":"ts",
-			"name": "TypeScript et Javascript",
-			"subtitle": "Certification CodinGame",
+			"icon": "ts",
+			"name": "TypeScript and JavaScript",
+			"subtitle": "CodinGame Certification",
 			"link": "https://www.codingame.com/certification/nxSxPg_AI-hssnpcSACqag"
 		},
 		{
@@ -134,14 +133,14 @@
 		{
 			"type": "soft",
 			"icon": "brain",
-			"name": "Autonomie et ownership",
-			"subtitle": "Assure la qualité du code de la conception à la livraison"
+			"name": "Autonomy and Ownership",
+			"subtitle": "Ensures code quality from design to delivery"
 		},
 		{
 			"type": "soft",
 			"icon": "autonomie",
-			"name": "Collaboration et méthodologie Agile",
-			"subtitle": "Assure le rôle de Scrum Master avec des profils variés"
+			"name": "Collaboration and Agile Methodology",
+			"subtitle": "Serves as Scrum Master with varied profiles"
 		}
 	]
 }

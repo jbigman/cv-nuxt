@@ -19,9 +19,16 @@ defineProps<{ title?: string }>()
 
 
 <style lang="scss" scoped>
+
+h2 {
+  text-transform: uppercase;
+  margin-top: $main-padding;
+}
+
 .content {
   display: flex;
   flex-direction: column;
   gap : $main-padding;
 }
+
 </style>

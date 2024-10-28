@@ -19,26 +19,26 @@ const typedCV = cv as ICuriculum
       <div class="content">
         <div class='skills'>
           <div style="flex: 1">   
-            <Block title="Compétences humaines"> 
+            <Block title="Soft skills"> 
               <template #details>
                 <Skill v-for="skill in typedCV.skills.filter((s:ISkill) => s.type === 'soft')" :data="skill" ></Skill>
               </template>   
             </Block> 
           </div>
           <div style="flex: 1">   
-            <Block title="Compétences techniques">    
+            <Block title="Hard skills">    
               <template #details>
                 <Skill v-for="skill in typedCV.skills.filter((s:ISkill) => s.type === 'hard')" :data="skill" ></Skill>
               </template>    
             </Block>
           </div>
         </div>
-        <Block title='Expérience'>
+        <Block title='Experience'>
           <template #details>
             <Experiences v-for="expArray in typedCV.experiences" :data="expArray" ></Experiences>
           </template> 
         </Block>   
-        <Block title='Formation'>
+        <Block title='Education'>
           <template #details>
             <div v-for="exp in cv.formations"> 
               <Formation :exp="exp" />
