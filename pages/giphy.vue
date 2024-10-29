@@ -1,6 +1,6 @@
 
 <template>
-  <div class="column center" style="margin: 50px;">
+  <div class="column center" style="padding: 50px;background-color: rgb(0,0,0, 0.1);">
     <div class="column center" style="gap: 50px ; max-width: 800px;">
       <h1>What's your favorite Giphy?</h1>
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1nM2h0aG14NWY1ZmpzMzA0ZXc2Z2ZxaG5iOWNqZXBlbzExNGthdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iD9cm5ZRKnVO0GkOdH/giphy.gif" />
