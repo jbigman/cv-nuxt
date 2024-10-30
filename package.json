@@ -10,7 +10,7 @@
   "dependencies": {
     "@nuxtjs/style-resources": "^1.2.2",
     "nuxt": "^3.13.2",
-    "sass": "^1.80.4",
+    "sass": "^1.80.5",
     "vue": "latest",
     "vue-router": "latest"
   },
