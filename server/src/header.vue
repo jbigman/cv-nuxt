@@ -1,8 +1,7 @@
 
 <script setup lang="ts">
-import cv from './data/data.json'
+import cv from './data/fr.json'
 import networkData from './data/network.json'
-import Block from './block.vue'
 import NetWork from './network.vue'
 import InfoElement from './InfoElement.vue';
 </script>
@@ -47,7 +46,7 @@ import InfoElement from './InfoElement.vue';
       </div>
       <h2 class="title">{{cv.title}}</h2>
       <ul>
-        <li v-for="punchline in  cv.punchLines" style="line-height: 20px">{{punchline}}</li>
+        <li v-for="punchline in cv.punchLines" style="line-height: 20px">{{punchline}}</li>
       </ul>
     </div>
   </div>
