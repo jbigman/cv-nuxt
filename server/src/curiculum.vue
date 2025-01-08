@@ -1,6 +1,6 @@
 <script setup lang="ts">
 
-import cv from './data/fr.json'
+import cv from './data/data.json'
 import Block from './block.vue'
 import Formation from './formation.vue'
 import Header from './header.vue'
