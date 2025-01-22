@@ -19,7 +19,7 @@ defineProps<{
 <template>
   <DiscordIcon v-if="name === 'discord'" class="icon" :size="30"/>
   <TypeScriptIcon v-else-if="name === 'ts'" class="icon" :size="42"/>
-  <NodeJsIcon v-else-if="name === 'node'" class="icon" :size="30"/>
+  <NodeJsIcon v-else-if="name === 'node'" class="icon" :size="42"/>
   <ReactIcon v-else-if="name === 'react'" class="icon" :size="42"/>
   <AutonomieIcon v-else-if="name === 'autonomie'" class="icon legend" :size="30"/>
   <FireFighterIcon v-else-if="name === 'fire'" class="icon legend"  :size="30"/>

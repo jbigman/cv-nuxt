@@ -1,0 +1,196 @@
+{
+	"lastName": "GAMBIN",
+	"firstName": "Jérémie",
+	"address": "Nantes, FR",
+	"email": "jeremie.gambin@gmail.com",
+	"phone": "06.24.89.44.49",
+	"title": "Senior Full-Stack Developer",
+	"punchLines": [
+		"10 years of experience in Full-Stack development",
+		"Expertise in TypeScript, Node.js, React, Next.js",
+		"Scrum Master in an Agile environment",
+		"Testing, integration, and continuous deployment on all my projects"
+	],
+	"stackOverFlowUrl": "https://stackoverflow.com/users/2988788",
+	"drivingLicence": "Driver's license B",
+	"githubUrl": "https://github.com/jbigman",
+	"linkedinUrl": "https://www.linkedin.com/in/jeremiegambin/",
+	"description": "Experienced developer in web and mobile applications, specializing in TypeScript, Node.js, and React. My achievements include creating a booking platform with payment systems for LaPetitePouzerie.fr and implementing a search engine for video games on Gamewisher.com. I am looking for a developer role at CoderPad, where I can bring my front-end and back-end development skills in an Agile environment to support your Tech team, strengthen your products, and ensure their growth.",
+	"experiences": [
+		[{
+			"title": "Creation of a community platform dedicated to mobile games (independently)",
+			"description": "",
+			"company": "Gamewisher.com - Founder & Full-Stack Developer",
+			"link": "https://www.gamewisher.com",
+			"tasks": [
+				"<strong>Designed the RESTful API</strong> with <b>NodeJS</b>/<b>NestJS</b> and <b>MongoDB</b>",
+				"<strong>Developed the mobile-first website</strong> using <b>React</b> and <b>Next.js</b>",
+				"<strong>Implemented a scraping algorithm</strong> to automate game addition and updates",
+				"<strong>Continuous integration</strong> with 80% code coverage via <b>Vitest</b> and <b>GitHub Actions</b>",
+				"<strong>Continuous deployment</strong> in <b>Docker</b> containers on cloud platforms",
+				"<strong>Added gamification mechanisms</strong> to boost user engagement",
+				"<strong>Authored articles</strong> to help players with detailed guides or promote new content"
+			],
+			"stack": [],
+			"dateStart": "2021",
+			"dateEnd": "2024"
+		}],
+		[{
+			"title": "Complete design in <b>TypeScript</b>, <b>NestJS</b>, and <b>NextJs</b> of the booking website (in collaboration with a UX designer)",
+			"company": "LaPetitePouzerie.fr - Freelance Developer",
+			"link": "https://www.LaPetitePouzerie.fr",
+			"description": "",
+			"tasks": [
+				"<strong>Analyzed functional requirements</strong> with hosts.",
+				"<strong>Collaborated with a UX designer</strong> to review Figma mockups and integrate them into the site development.",
+				"<strong>Implemented a secure and reliable online payment process</strong> with <b>Stripe.com API</b>"
+			],
+			"stack": [],
+			"dateStart": "March - April 2024",
+			"dateEnd": ""
+		}],
+		[{
+			"title": "Development of an Android app in <b>React Native</b> to manage lab door openings (independently)",
+			"company": "Eric C. Entrepreneur - Freelance Developer",
+			"description": "",
+			"tasks": [
+				"<strong>Analyzed requirements:</strong> Weekly discussions and demos to define and develop MVP features.",
+				"<strong>Communicated with the terminal control developer:</strong> Defined the Bluetooth communication protocol."
+			],
+			"stack": [],
+			"dateStart": "October 2022",
+			"dateEnd": ""
+		}],
+		[{
+			"title": "",
+			"description": "",
+			"company": "TAF Mobile Games - YouTube Content Creator",
+			"link": "https://www.youtube.com/c/tafjeuxmobile",
+			"tasks": [
+				"<strong>Produced 150 videos</strong> including tests, guides, and news (scripting, shooting, editing).",
+				"<strong>Ensured rigor and organization</strong> with an editorial calendar (weekly and monthly)",
+				"<strong>Continuous improvement:</strong>",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Click-through rate</strong> - Optimized titles, descriptions, and thumbnails.",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Retention rate</strong> - Improved scripting and information quality",
+				"<strong>Collaborated</strong> with various game studios for sponsored partnerships",
+				"<strong>Built a community</strong> reaching 2000 subscribers and generating 320k views in 2 years",
+				"<strong>Managed, animated, and coordinated</strong> a Discord server with 3000 members"
+			],
+			"stack": [],
+			"dateStart": "2019",
+			"dateEnd": "2022"
+		}],
+		[{
+			"title": "Development of an Android app in <b>React Native</b> for the Danish transport system (independently)",
+			"company": "Thales - Developer & Scrum Master",
+			"description": "",
+			"tasks": [
+				"<strong>Full design of the Android app</strong> in <b>React Native</b>",
+				"<strong>Collaborated with a Danish Product Owner</strong> <b>in English</b> to define the software redesign",
+				"<strong>Inter-team collaboration</strong> by establishing communication protocols with other equipment based on <b>MQTT</b>."
+			],
+			"stack": [],
+			"dateStart": 2017,
+			"dateEnd": 2018
+		}, {
+			"title": "Development of a ticketing management system in <b>Java</b> and <b>Angular</b> (team of 10)",
+			"company": "",
+			"description": "",
+			"tasks": [
+				"<strong>Scrum master:</strong> Led ceremonies, wrote and reviewed User Stories",
+				"<strong>Handled User Stories end-to-end:</strong>",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Database modifications in <b>PostgreSQL</b>",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Message consumption with <b>RabbitMQ</b>",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implemented new <b>RESTful services</b>",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Created user portals in <b>Angular</b>",
+				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Set up integration tests with <b>JUnit</b>"
+			],
+			"stack": [],
+			"dateStart": 2013,
+			"dateEnd": 2017
+		}, {
+			"title": "Development in <b>C#</b> and <b>ASP.Net</b> of Auckland, NZ's ticketing system (team of 8)",
+			"company": "",
+			"description": "",
+			"tasks": [
+				"<strong>Improved performance</strong> of components such as equipment fleet management by modifying portal issues and database queries in <b>Microsoft SQL Server</b>",
+				"<strong>Fixed bugs</strong>"
+			],
+			"stack": [],
+			"dateStart": 2010,
+			"dateEnd": 2013
+		}, {
+			"title": "Technical migration of software from <b>C#</b> and <b>WPF</b> to a web version in <b>ASP.Net</b> (Master's internship)",
+			"company": "",
+			"description": "",
+			"tasks": [
+				"<strong>Improved the user interface</strong> with graphical controls adapted to functional user needs"
+			],
+			"stack": [],
+			"dateStart": 2008,
+			"dateEnd": 2010
+		}]
+	],
+	"formations": [
+		{
+			"title": "Ergonomics and UX for software",
+			"company": "Ludotic, Paris",
+			"tasks": [],
+			"stack": [],
+			"dateEnd": 2014
+		},
+		{
+			"title": "Master's Degree in Software Development Engineering and Systems",
+			"company": "CFA AFTI, Orsay",
+			"tasks": [],
+			"stack": [],
+			"dateEnd": 2010
+		},
+		{
+			"title": "Bachelor's Degree in Computer Science",
+			"description": "",
+			"company": "Université Paris Sorbonne",
+			"duration": "",
+			"tasks": [],
+			"stack": [],
+			"dateEnd": 2008
+		}
+	],
+	"skills": [
+		{
+			"type": "hard",
+			"icon": "ts",
+			"name": "TypeScript and JavaScript",
+			"subtitle": "CodinGame Certification",
+			"link": "https://www.codingame.com/certification/nxSxPg_AI-hssnpcSACqag"
+		},
+		{
+			"type": "hard",
+			"icon": "node",
+			"name": "Node.js — Nest.js"
+		},
+		{
+			"type": "hard",
+			"icon": "react",
+			"name": "React — Next.js"
+		},
+		{
+			"type": "soft",
+			"icon": "brain",
+			"name": "Autonomy and Responsibility",
+			"subtitle": "I learn quickly and tackle technical challenges"
+		},
+		{
+			"type": "soft",
+			"icon": "fire",
+			"name": "Rigor and Organization",
+			"subtitle": "I ensure maintainable, performant, and optimized code"
+		},
+		{
+			"type": "soft",
+			"icon": "autonomie",
+			"name": "Team Leadership",
+			"subtitle": "I support, motivate, and guide my colleagues"
+		}
+	]
+}

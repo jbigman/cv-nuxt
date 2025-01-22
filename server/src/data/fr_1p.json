@@ -4,13 +4,13 @@
 	"address": "Nantes, FR",
 	"email": "jeremie.gambin@gmail.com",
 	"phone": "06.24.89.44.49",
-	"title": "Développeur Full-Stack Senior",
+	"title": "Dévelopeur Full stack Senior",
 	"punchLines": [
 		"10 ans d'expérience en développement Full-Stack",
 		"Expertise en stacks modernes : TypeScript, Node.js, React, Next.js",
 		"Gestion complète des projets, de la conception au déploiement",
 		"Expérience en tant que Scrum Master dans un environnement Agile",
-		"Anglais courant (écrit et oral)"
+		"Mise en place de pipelines CI/CD sur tous mes projets"
 	],
 	"stackOverFlowUrl": "https://stackoverflow.com/users/2988788",
 	"drivingLicence": "Permis de conduire B",
@@ -24,27 +24,35 @@
 			"company": "Gamewisher.com - Fondateur & Développeur Full-Stack",
 			"link": "https://www.gamewisher.com",
 			"tasks": [
-				"<strong>Conception de l'<b>API RESTful</b></strong> avec <b>NestJS</b> et <b>MongoDB</b>",
-				"<strong>Mise en place de tests unitaires et d'intégration</strong> avec <b>Vitest</b>, assurant une couverture de tests supérieure à 80%",
-				"<strong>Réalisation du front-end</strong> en utilisant <b>React 18</b> et <b>Next.js</b>",
-				"<strong>Mise en place des pipelines CI/CD</strong> avec <b>GitHub Actions</b> et déploiement dans des conteneurs <b>Docker</b>",
-				"<strong>Rédaction d'articles</strong> en <b>francais</b> et en <b>anglais</b> (Actualité, guides, tests)"
+				"<strong>Conception complète de la plateforme</strong> avec <b>React</b> et <b>Next.js</b> et l'API <b>RESTful</b> avec <b>NestJS</b> et <b>MongoDB</b>",
+				"<strong>Mise en place des pipelines CI/CD</strong> avec <b>Vitest</b> et <b>GitHub Actions</b> et déploiement dans des conteneurs <b>Docker</b>"
 			],
 			"stack": [],
-			"dateStart": "Depuis 2021",
-			"dateEnd": ""
+			"dateStart": "2019",
+			"dateEnd": "2024"
 		}],
 		[{
 			"title": "Conception complète en <b>TypeScript</b>, <b>NestJS</b> et <b>NextJs</b> du site de réservation (en collaboration avec un designer UX)",
-			"company": "LaPetitePouzerie.fr",
+			"company": "LaPetitePouzerie.fr - Développeur Freelance",
 			"link": "https://www.LaPetitePouzerie.fr",
 			"description": "",
 			"tasks": [
-				"<strong>Analyse des besoins avec les hôtes</strong> pour définir les règles fonctionnelles.",
-				"<strong>Mise en place d'une solution de payement</strong> en utilisant Stripe.com"
+				"<strong>Analyse des besoins avec les hôtes</strong> pour définir les règles fonctionnelles."
 			],
 			"stack": [],
-			"dateStart": "De Mars à Avril 2024",
+			"dateStart": "Mars - Avril 2024",
+			"dateEnd": ""
+		}],
+		[{
+			"title": "Développement d'une application Android en <b>React Native</b> pour gérer les ouvertures de portes de laboratoire (en autonomie)",
+			"company": "Eric C. Entrepreneur - Développeur Freelance",
+			"description": "",
+			"tasks": [
+				"<strong>Analyse des besoins :</strong> Discussions et démonstrations hebdomadaires pour définir et développer les fonctionnalités MVP.",
+				"<strong>Communication avec le développeur du terminal de contrôle :</strong> Définition du protocole de communication Bluetooth."
+			],
+			"stack": [],
+			"dateStart": "Octobre 2022",
 			"dateEnd": ""
 		}],
 		[{
@@ -64,11 +72,7 @@
 			"description": "",
 			"tasks": [
 				"<strong>Scrum master :</strong> Animation des cérémonies, rédaction et revue des User Stories",
-				"<strong>Conception et mise en œuvre de fonctionnalités de bout en bout :</strong>",
-				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expérience avec des bases de données <b>PostgreSQL</b> pour la gestion de données relationnelles",
-				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gestion de communications asynchrones avec <b>RabbitMQ</b>", 
-				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Création de portails front et back office en <b>Angular</b>",
-				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conception de services RESTful en <b>Java</b>"
+				"<strong>Conception et mise en œuvre de fonctionnalités de bout en bout :</strong> modifications de base de données <b>PostgreSQL</b>, consommation de messages <b>RabbitMQ</b>, création de portails utilisateurs en <b>Angular</b> et services API RESTful"
 			],
 			"stack": [],
 			"dateStart": 2013,

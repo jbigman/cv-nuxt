@@ -1,6 +1,6 @@
 
 <script setup lang="ts">
-import cv from './data/data.json'
+import cv from './data/en.json'
 import networkData from './data/network.json'
 import NetWork from './network.vue'
 import InfoElement from './InfoElement.vue';
