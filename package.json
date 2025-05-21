@@ -11,7 +11,7 @@
   "dependencies": {
     "@nuxtjs/style-resources": "^1.2.2",
     "nuxt": "^3.17.2",
-    "sass": "^1.87.0",
+    "sass": "^1.89.0",
     "vue": "latest",
     "vue-router": "4.5.1"
   },
