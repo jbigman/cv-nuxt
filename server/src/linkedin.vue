@@ -1,10 +1,5 @@
 <script setup lang="ts">
-
-import cv from './data/latest-fr.json'
 import Block from './block.vue'
-import type { ICuriculum } from './interfaces/ICuriculum.js'
-
-const typedCV = cv as ICuriculum
 </script>
 
 <template>

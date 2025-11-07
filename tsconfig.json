@@ -1,4 +1,11 @@
 {
-  // https://nuxt.com/docs/guide/concepts/typescript
-  "extends": "./.nuxt/tsconfig.json"
+  "extends": "./.nuxt/tsconfig.json",
+  "compilerOptions": {
+    "types": ["node", "nuxt", "vite/client"]
+  },
+  "include": [
+    "./**/*.ts",
+    "./**/*.vue",
+    "./nuxt.config.ts"
+  ]
 }
