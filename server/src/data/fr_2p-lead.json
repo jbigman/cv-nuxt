@@ -1,0 +1,206 @@
+{
+	"lastName": "GAMBIN",
+	"firstName": "Jérémie",
+	"address": "Chartres-de-Bretagne, FR",
+	"email": "jeremie.gambin@gmail.com",
+	"phone": "06.24.89.44.49",
+	"title": "Responsable technique - Dév Web & Mobile",
+	"punchLines": [
+		"Recherche CDI",
+		"12 ans d'expérience en développement web, mobile et API",
+		"Expertise TypeScript, Node.js, React, NestJS",
+		"Leadership Agile : Scrum Master",
+		"Standards de développement, tests, CI/CD & architecture"
+	],
+	"stackOverFlowUrl": "https://stackoverflow.com/users/2988788",
+	"drivingLicence": "Permis de conduire B",
+	"githubUrl": "https://github.com/jbigman",
+	"linkedinUrl": "https://www.linkedin.com/in/jeremiegambin/",
+	"description": "<b>Ingénieur logiciel passionné par l’architecture Web & Mobile</b>, avec une solide expérience sur des projets à forts enjeux techniques. <b>Mon approche mêle rigueur, agilité et accompagnement des équipes</b>. Je conçois des socles techniques robustes, je mets en place des pratiques DevOps et <b>je fédère autour de la qualité logicielle</b>. Je recherche un rôle de responsable technique où <b>je pourrai encadrer, structurer et faire grandir une équipe</b> dans un environnement bienveillant et exigeant comme chez Avril.",
+	"experiences": [
+		[
+			{
+				"title": "<u>Responsable technique</u> & Conception de la plateforme web",
+				"description": "",
+				"company": "Gamewisher.com - Fondateur",
+				"link": "https://www.gamewisher.com",
+				"tasks": [
+					"<b>Encadrement d’un projet complet</b> : Aggrégateur de données et plateforme communautaire autour des jeux mobiles",
+					"<b>Conception d’une architecture modulaire</b> avec NestJS, MongoDB, React, Next.js",
+					"<b>Industrialisation du projet : CI/CD</b> avec GitHub Actions, tests automatisés (Vitest)",
+					"Scraping, algorithmes de mise à jour automatique, gestion de SEO & performance",
+					"Gamification et stratégie de contenu éditorial pour l’engagement utilisateur",
+					"Déploiement Docker en Cloud"
+				],
+				"stack": [],
+				"dateStart": "Depuis 2021",
+				"dateEnd": ""
+			}
+		],
+		[
+			{
+				"title": "<u>Lead technique</u> - Conception d’un site de réservation",
+				"company": "LaPetitePouzerie.fr - Développeur Freelance",
+				"link": "https://www.lapetitepouzerie.fr",
+				"description": "",
+				"tasks": [
+					"<b>Analyse fonctionnelle</b> avec les parties prenantes",
+					"<b>Conception complète du socle technique</b> en NestJS, Next.js, TypeScript",
+					"Intégration de maquettes Figma et mise en œuvre de Stripe pour le paiement en ligne"
+				],
+				"stack": [],
+				"dateStart": "Mars - Avril 2024",
+				"dateEnd": ""
+			}
+		],
+		[
+			{
+				"title": "<u>Lead technique Mobile</u> – Application Bluetooth React Native",
+				"company": "Eric C. Entrepreneur - Développeur Freelance",
+				"description": "",
+				"tasks": [
+					"Échange client régulier pour définir et ajuster le périmètre MVP",
+					"Spécification et implémentation de la communication Bluetooth avec un terminal électronique"
+				],
+				"stack": [],
+				"dateStart": "Octobre 2022",
+				"dateEnd": ""
+			}
+		],
+		[
+			{
+				"title": "Création de contenu, gestion de communauté",
+				"description": "",
+				"company": "TAF Jeux Mobile - Youtubeur & Community Manager",
+				"link": "https://www.youtube.com/c/tafjeuxmobile",
+				"tasks": [
+					"Production de 150 vidéos : tests, guides, actualités",
+					"Planification éditoriale mensuelle, optimisations SEO & rétention",
+					"Partenariats promotionnels avec studios",
+					"Gestion et animation d’un Discord de 3000 membres"
+				],
+				"stack": [],
+				"dateStart": "2019",
+				"dateEnd": "2022"
+			}
+		],
+		[
+			
+			{
+				"title": "<u>Lead technique</u> application Mobile",
+				"company": "Thales - Système de transport danois",
+				"description": "",
+				"tasks": [
+					"Conception et développement d'une application Android en React Native pour les bus du système de transport Danois",
+					"<b>Collaboration internationale</b> en anglais avec le Product Owner danois",
+					"Échanges inter-équipes et définition des échanges MQTT"
+				],
+				"stack": [],
+				"dateStart": 2017,
+				"dateEnd": 2018
+			}
+		],
+		[
+			{
+				"title": "<u>Scrum Master</u> & Développeur Full-Stack Java / Angular",
+				"company": "Thales - Produit billettique international",
+				"description": "",
+				"tasks": [
+					"<b>Pilotage des cérémonies Scrum et mentoring technique</b>",
+					"Développement de services REST, portails Angular, base PostgreSQL, messages RabbitMQ",
+					"<b>Mise en place de tests d'intégration</b> (JUnit)"
+				],
+				"stack": [],
+				"dateStart": 2013,
+				"dateEnd": 2017
+			},
+			{
+				"title": "Développeur Full-Stack .NET",
+				"company": "Thales - Projet billettique Auckland",
+				"description": "",
+				"tasks": [
+					"Optimisation des performances applicatives et base de données SQL Server",
+					"Maintenance et correction de bugs sur le backend ASP.Net / C#"
+				],
+				"stack": [],
+				"dateStart": 2010,
+				"dateEnd": 2013
+			},
+			{
+				"title": "Développeur Full-Stack .NET (Apprentissage)",
+				"company": "Thales - Logiciel de configuration système",
+				"description": "",
+				"tasks": [
+					"Modification ergonomique d'une interface desktop en WPF",
+					"Migration technique vers ASP.Net"
+				],
+				"stack": [],
+				"dateStart": 2008,
+				"dateEnd": 2010
+			}
+		]
+	],
+	"formations": [
+		{
+			"title": "Ergonomie et UX des logiciels",
+			"company": "Ludotic, Paris",
+			"tasks": [],
+			"stack": [],
+			"dateEnd": 2014
+		},
+		{
+			"title": "Master : Expert en conduite et ingénierie de logiciels et systèmes",
+			"company": "CFA AFTI, Orsay",
+			"tasks": [],
+			"stack": [],
+			"dateEnd": 2010
+		},
+		{
+			"title": "Licence en Informatique",
+			"description": "",
+			"company": "Université Paris Sorbonne",
+			"duration": "",
+			"tasks": [],
+			"stack": [],
+			"dateEnd": 2008
+		}
+	],
+	"skills": [
+		{
+			"type": "hard",
+			"icon": "ts",
+			"name": "TypeScript / JavaScript",
+			"subtitle": "Certification CodinGame",
+			"link": "https://www.codingame.com/certification/nxSxPg_AI-hssnpcSACqag"
+		},
+		{
+			"type": "hard",
+			"icon": "node",
+			"name": "Node.js / Nest.js / Next.js"
+		},
+		{
+			"type": "soft",
+			"icon": "brain",
+			"name": "Leadership technique",
+			"subtitle": "Animation d'équipe, Scrum Master"
+		},
+		{
+			"type": "soft",
+			"icon": "autonomie",
+			"name": "Rigueur et pédagogie",
+			"subtitle": "Méthodologie, amélioration continue"
+		},
+		{
+			"type": "soft",
+			"icon": "en",
+			"name": "Anglais professionnel",
+			"subtitle": "Collaboration internationale"
+		},
+		{
+			"type": "hard",
+			"icon": "fire",
+			"name": "DevOps",
+			"subtitle": "GitHub Actions, Docker, CI/ CD"
+		}
+	]
+}

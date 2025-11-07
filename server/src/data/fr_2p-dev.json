@@ -1,14 +1,13 @@
 {
 	"lastName": "GAMBIN",
 	"firstName": "Jérémie",
-	"address": "Nantes, FR",
+	"address": "Chartres-de-Bretagne, FR",
 	"email": "jeremie.gambin@gmail.com",
 	"phone": "06.24.89.44.49",
-	"title": "Développeur Full-Stack Senior",
+	"title": "Developpeur Fullstack Sénior TS / NestJS / React",
 	"punchLines": [
-		"Recherche CDI",
-		"12 ans d'expérience en développement Full-Stack",
-		"Expertise en TypeScript, Node.js, React, Next.js",
+		"12 ans d'expérience en développement Fullstack",
+		"Expertise en TypeScript, NestJs et React",
 		"Scrum Master dans un environnement Agile",
 		"Tests, intégration, et déploiement continu sur tous mes projets"
 	],
@@ -21,20 +20,20 @@
 		[{
 			"title": "Création d'une plateforme communautaire dédiée aux jeux mobiles (en autonomie)",
 			"description": "",
-			"company": "Gamewisher.com - Fondateur & Développeur Full-Stack",
+			"company": "Gamewisher.com - Fondateur & Développeur Fullstack",
 			"link": "https://www.gamewisher.com",
 			"tasks": [
 				"<strong>Conception de l'API RESTful</strong> avec <b>NodeJS</b>/<b>NestJS</b> et <b>MongoDB</b>",
 				"<strong>Développement du site web</strong> mobile first avec <b>React</b> et <b>Next.js</b>",
 				"<strong>Implémentation d'un algorithme de scrapping</strong> pour automatiser l'ajout et la mise à jour des jeux",
-				"<strong>Intégration continue </strong>avec une couverture de code de 80 % via <b>Vitest</b> et <b>GitHub Actions</b>",
+				"<strong>Intégration continue </strong>avec une couverture de code de 80 % via <b>Vitest</b>, <b>Cypress</b> et <b>GitHub Actions</b>",
 				"<strong>Déploiement continu</strong> dans des conteneurs <b>Docker</b> sur des plateformes de Cloud",
 				"<strong>Mise en place de mécanismes de gamification</strong> pour encourager l'engagement utilisateur",
 				"<strong>Rédaction d'articles</strong> pour aider les joueurs avec des guides détaillés ou promouvoir les nouveautés"
 			],
 			"stack": [],
-			"dateStart": "2021",
-			"dateEnd": "2024"
+			"dateStart": "Depuis 2021",
+			"dateEnd": ""
 		}],
 		[{
 			"title": "Conception complète en <b>TypeScript</b>, <b>NestJS</b> et <b>NextJs</b> du site de réservation (en collaboration avec un designer UX)",
@@ -94,11 +93,11 @@
 			"dateStart": 2017,
 			"dateEnd": 2018
 		}, {
-			"title": "Développement d'un système de gestion des titres de transport en <b>Java</b> et <b>Angular</b> (équipe de 10 personnes)",
+			"title": "Développement d'un système de gestion des titres de transport en <b>Java Spring Boot</b> et <b>Angular</b> (équipe de 10 personnes)",
 			"company": "",
 			"description": "",
 			"tasks": [
-				"<strong>Scrum master :</strong> Animation des cérémonies, rédaction et revue des User Stories",
+				"<strong><b>Scrum master :</b></strong> Animation des cérémonies, rédaction et revue des User Stories",
 				"<strong>Prise en charge d'User Stories de bout en bout :</strong>",
 				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modifications en base de données <b>PostgreSQL</b>",
 				"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Consommation de messages <b>RabbitMQ</b>",
@@ -168,30 +167,31 @@
 		{
 			"type": "hard",
 			"icon": "node",
-			"name": "Node.js — Nest.js"
+			"name": "Nest.js — React"
 		},
 		{
 			"type": "hard",
-			"icon": "react",
-			"name": "React — Next.js"
+			"icon": "en",
+			"name": "Anglais professionnel",
+			"subtitle": "Expérience internationale"
 		},
 		{
 			"type": "soft",
 			"icon": "brain",
-			"name": "Autonomie et Responsabilité",
+			"name": "Curiosité et Ambition",
 			"subtitle": "J'apprends rapidement et relève les défis techniques"
+		},
+		{
+			"type": "soft",
+			"icon": "autonomie",
+			"name": "Passion et bienveillance",
+			"subtitle": "J'accompagne, motive et soutiens mes collègues"
 		},
 		{
 			"type": "soft",
 			"icon": "fire",
 			"name": "Rigueur et organisation",
 			"subtitle": "Je garantis un code maintenable, performant et optimisé"
-		},
-		{
-			"type": "soft",
-			"icon": "autonomie",
-			"name": "Leadership d'équipe",
-			"subtitle": "J'accompagne, motive et soutiens mes collègues"
 		}
 	]
 }

@@ -27,9 +27,9 @@ defineProps<{
   </div>
   
   <div class='row txt-small'>
-    <span>{{exp.dateStart}}</span>
-    <span v-if=" exp.dateStart && exp.dateEnd">-</span>
-    <span>{{exp.dateEnd}}</span>
+    <span v-if=" exp.dateStart && exp.dateEnd">De {{exp.dateStart}}&nbsp;à&nbsp;{{exp.dateEnd}}</span>
+    <span v-else-if="exp.dateStart">{{ exp.dateStart }}</span>
+    <span v-else-if="exp.dateEnd">{{ exp.dateEnd }}</span>
   </div>
 </div>
 <h3 v-if="exp.title" class="experience-title" v-html="exp.title" />

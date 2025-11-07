@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import Curiculum from '../server/src/curiculum.vue';
+import Linkedin from '../server/src/linkedin.vue';
 </script>
 
 <template>
   <div>
     <NuxtRouteAnnouncer />
-    <Curiculum />
+    <Linkedin />
   </div>
 </template>

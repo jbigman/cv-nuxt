@@ -10,6 +10,8 @@ import LinkedInIcon  from './icons/LinkedInIcon.vue'
 import CodinGameIcon  from './icons/CodinGameIcon.vue'
 import GithubIcon  from './icons/GithubIcon.vue'
 import DiscordIcon  from './icons/DiscordIcon.vue'
+import NuxtIcon from './icons/NuxtIcon.vue'
+import EnglishIcon from './icons/EnglishIcon.vue'
 
 defineProps<{
   name: string
@@ -20,7 +22,9 @@ defineProps<{
   <DiscordIcon v-if="name === 'discord'" class="icon" :size="30"/>
   <TypeScriptIcon v-else-if="name === 'ts'" class="icon" :size="42"/>
   <NodeJsIcon v-else-if="name === 'node'" class="icon" :size="42"/>
+  <EnglishIcon v-else-if="name === 'en'" class="icon" :size="42"/>
   <ReactIcon v-else-if="name === 'react'" class="icon" :size="42"/>
+  <NuxtIcon v-else-if="name === 'nuxt'" class="icon" :size="42"/>
   <AutonomieIcon v-else-if="name === 'autonomie'" class="icon legend" :size="30"/>
   <FireFighterIcon v-else-if="name === 'fire'" class="icon legend"  :size="30"/>
   <BrainIcon v-else-if="name === 'brain'" class="icon legend" :size="30"/>
